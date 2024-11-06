@@ -19,7 +19,7 @@ const Navbar = () => {
               <span className="text-[rgb(133,76,230)] ml-1 text-[32px] font-poppins font-medium">{'>'}</span>
           </div>
         
-        <ul className="sm:hidden md:flex space-x-10 pr-12">
+        <ul className="xs:hidden md:flex space-x-10 pr-12">
           <li className="text-[rgb(242,243,244)] font-poppins font-medium hover:text-[rgb(133,76,230)]"><a href="#about">About</a></li>
           <li className="text-[rgb(242,243,244)] font-poppins font-medium hover:text-[rgb(133,76,230)]"><a href="#skills">Skills</a></li>
           <li className="text-[rgb(242,243,244)] font-poppins font-medium hover:text-[rgb(133,76,230)]"><a href="#projects">Projects</a></li>
